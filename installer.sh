@@ -36,5 +36,8 @@ sudo scons
 echo -e "\n\e[1;31mChange folder to python:\e[0m"
 cd python
 
-echo -e "\n\e[1;31mRun setup:\e[0m"
+echo -e "\n\e[1;31mRun setup for Python 2:\e[0m"
 sudo python setup.py install
+
+echo -e "\n\e[1;31mRun setup for Python 3:\e[0m"
+sudo python3 setup.py install
