@@ -11,7 +11,7 @@
 </br>Link - see here</a>
 </br>
 
-<LI>download all this file anf put it into a folder
+<LI>download all this file and put it into a folder
 <LI>Run Eric with admin right (->sudo eric)
 <LI>Load the Project and run the “main.py” script.
 
